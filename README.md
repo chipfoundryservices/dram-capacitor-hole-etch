@@ -74,7 +74,7 @@ The material assumes a working knowledge of plasma physics (Books #1–5), fluor
 - **Device architectures:** 6F² buried-channel DRAM from the 1x to the 1c generation (DDR5, LPDDR5X, HBM core dies); 4F² vertical-channel and 3D DRAM as emerging forms
 - **Capacitor structures:** single-sided TiN pillar capacitors in a nitride-supported mold (primary focus); double-sided cylinders; multi-tier stacked molds
 - **Process sequence:** Capacitor hole etch follows the landing-pad module and the mold and hard-mask depositions, and the hole patterning and mask open. It comes before the strip and clean, bottom-electrode deposition, support opening, mold removal, dielectric, and plate
-- **Manufacturing scale:** 300 mm wafers, one capacitor hole etch per wafer, about 5 min of etch inside a 7–8 min chamber cycle, a large fleet of high-power dielectric chambers per DRAM fab
+- **Manufacturing scale:** 300 mm wafers, one capacitor hole etch per wafer, about 5 min of etch inside a 7 min chamber cycle, a large fleet of high-power dielectric chambers per DRAM fab
 
 ---
 
