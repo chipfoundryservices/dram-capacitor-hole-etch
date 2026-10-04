@@ -283,7 +283,7 @@ Capacitor hole etch specification (reference, illustrative)
 
 Geometry
   Top CD (at top-support top)              32.0 ± 1.5 nm
-  Maximum bow CD (anywhere)                ≤ 34 nm (wall ≥ 11 nm)
+  Bow CD (site mean, max over depth)       ≤ 34 nm (wall ≥ 11 nm)
   Bottom CD (at pad)                       24 ± 2 nm; ≥ 20 nm every hole
   Depth                                    through bottom stop, on W
   Pad gouge                                ≤ 10 nm into W
